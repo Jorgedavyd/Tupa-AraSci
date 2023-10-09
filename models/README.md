@@ -1,0 +1,3 @@
+# ARCHITECTURES
+
+## Macro_architecture
